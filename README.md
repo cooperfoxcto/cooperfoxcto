@@ -1,16 +1,17 @@
-## Hi there 👋
+# Cooper Fox
 
-<!--
-**cooperfoxcto/cooperfoxcto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## CTO @ Permara
 
-Here are some ideas to get you started:
+Focusing on **verified payments**, **decentralized identity**, and **on-chain finance**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Engineering Principles
+
+- **Security** – building trust into every layer
+- **Reliability** – systems that can be depended on
+- **Simplicity** – clear, maintainable code
+
+---
+
+> [permara.com](https://permara.com)
